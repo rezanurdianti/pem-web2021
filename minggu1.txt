@@ -1,0 +1,23 @@
+cara membuat github
+
+
+github merupakan sebuah media manajemen sebagai platform jejaring sosial 
+untuk para developer diseluruh dunia
+
+langkah pembuatan github	:
+
+1. mengunjungi website resmi github github.com
+2. mengklik tombol signup di pojok kanan atas
+3. mengisi formulir pendaftaran akun seperti email, password, username
+4. mengkonfirmasi penerimaan pesan update dari github
+5. proses verifikasi akun untuk memilih gambar tertentu
+6. proses selesai
+
+
+cara push source code di github	:
+
+1. login akun github apabila sudah mempunyai akunnya
+2. buat repository baru, lalu pilih opsi add readme file untuk memberikan
+penjelasan singkat tentang script kita
+3. setelah itu pilih add file, kemudian pilih opsi upload file
+4. setelah itu maka script atau code anda sudah tersimpan di github
